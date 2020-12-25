@@ -1,0 +1,8 @@
+.nav-item :hover{
+background-color: #de3a2f;
+color: white !important;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 600px;
+  }
